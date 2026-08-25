@@ -1,0 +1,9 @@
+,0
+package_root,/kaggle/input/datasets/yuki16/rogii-model-package
+feature_builder,/kaggle/input/datasets/yuki16/rogii-model-package/feature_builders/build_features.py
+target_space,delta
+weight_sum,1.0
+postprocess,{}
+model_package_available,True
+p95_abs_model_package_diff,9.662068189742058
+disabled_by_diff_guard,False
